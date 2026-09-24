@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/data-dallas",
   "title": "Data Dallas",
   "description": "DataDallas MCP — Dallas open data (www.dallasopendata.com, Socrata SODA API).",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/data-dallas",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-data-dallas",
