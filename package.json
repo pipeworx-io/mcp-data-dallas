@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-data-dallas",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "DataDallas MCP — Dallas open data (www.dallasopendata.com, Socrata SODA API).",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "data-dallas",
     "gatewaySlug": "data-dallas",
-    "sourceHash": "v1-be8504ad8921009fda001448909e695c557133cb3016cbe986c8a31384e87ea0",
-    "sourceCommit": "0b3faaa4d85299a961dd86dea75a0f0e1dad280c"
+    "sourceHash": "v1-63a532c63008939ac56937ad580f8f0eb162aaeb7d9417aae15d6787b95de642",
+    "sourceCommit": "5ce1a05186d46479e23865c66bdb8579d8de445e"
   }
 }
